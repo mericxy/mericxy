@@ -9,7 +9,7 @@ I'm **Mericyx**, a passionate developer and student at [UFAM - ICET](https://ufa
 - 🌱 **Learning & Growing:** Always exploring new tech stacks and improving my coding skills! 🧠💻
 - 📚 **Hobbies:** I love reading books! 📖✨
 - 🎯 **Pronouns:** He/Him
-- 📬 **How to reach me:** [Instagram](https://instagram.com/mericyx)
+- 📬 **How to reach me:** [Linkedin](www.linkedin.com/in/marcioericlvalente)
 
 ---
 
