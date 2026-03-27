@@ -1,44 +1,86 @@
-### Hey there! 👋 Welcome to my GitHub profile!
+### 👋 Hi, I'm Márcio (Mericyx)
 
-I'm **Mericyx**, a passionate developer and student at [UFAM - ICET](https://ufam.edu.br/) 🎓. I'm constantly learning and exploring new technologies in Web & Mobile Development and Data Science! 🚀
-
----
-
-### 🚀 About Me:
-- 🔭 **Currently Studying:** Web & Mobile Development, Data Science 📊📱
-- 🌱 **Learning & Growing:** Always exploring new tech stacks and improving my coding skills! 🧠💻
-- 📚 **Hobbies:** I love reading books! 📖✨
-- 🎯 **Pronouns:** He/Him
-- 📬 **How to reach me:** [Linkedin](www.linkedin.com/in/marcioericlvalente)
+💻 **Frontend Developer (React) | JavaScript | Django**
+🎓 Software Engineering Student at UFAM (final year)
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm a Software Engineering student at UFAM with **hands-on experience in real-world web development projects**, including collaboration in a university-industry project with Motorola.
+
+I work mainly as a **Frontend Developer**, building web applications using **React, JavaScript, HTML, and CSS**, and I also have experience with **backend development using Django**, API creation, and deployment.
+
+I’ve been involved in:
+
+* Developing and maintaining web applications
+* Participating in **code reviews and architectural decisions**
+* Working in a **real development workflow (team, versioning, deployment)**
+
+🎯 Currently focused on **Frontend Development**, aiming for a **Junior Developer position**.
 
 ---
 
-### 🌟 Let's Collaborate!
+### 🛠️ Tech Stack
 
-👯 I'm looking to collaborate on **exciting projects** related to Web & Mobile Development, AI & Data Science.
-🤔 Need help with something? Feel free to reach out, and let's build something amazing together!
+**Frontend**
+
+* React
+* JavaScript (ES6+)
+* HTML & CSS
+
+**Backend**
+
+* Django
+* REST APIs
+
+**Other**
+
+* PostgreSQL
+* Git & GitHub
+* Basic deployment (servers, environments)
+
+---
+
+### 📂 Featured Projects
+
+Here are some of my main projects:
+
+* 🗳️ **Fullstack Voting System**
+  Web application with frontend + backend integration
+
+* 🎯 **Resource Allocation System (University Project)**
+  Fullstack system developed in a team environment
+
+* 🎲 **Bingo Game (React)**
+  Simple interactive frontend project
+
+* 🤖 **Machine Learning API (FastAPI)**
+  Experiment with data processing and ML integration
+
+👉 Check my repositories for more details!
+
+---
+
+### 📫 Contact
+
+* 💼 LinkedIn: https://www.linkedin.com/in/marcioericlvalente
 
 ---
 
 ### 📈 GitHub Stats
 
-![Mericyx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericxy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mericxy&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericxy&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mericxy&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
-### ⚡ Fun Fact:
-> "The best way to predict the future is to create it." – Alan Kay
+### ⚡ Focus Right Now
 
-Thanks for stopping by! 🚀🔥
+* Improving React and frontend architecture
+* Building better structured projects
+* Preparing for Junior Developer opportunities
+
+---
+
+⭐ Always learning, building, and improving.
