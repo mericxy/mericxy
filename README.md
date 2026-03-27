@@ -1,86 +1,57 @@
-### 👋 Hi, I'm Márcio (Mericyx)
+### Hi, I'm Márcio (Mericyx) 👋
 
-💻 **Frontend Developer (React) | JavaScript | Django**
-🎓 Software Engineering Student at UFAM (final year)
-
----
-
-### 🚀 About Me
-
-I'm a Software Engineering student at UFAM with **hands-on experience in real-world web development projects**, including collaboration in a university-industry project with Motorola.
-
-I work mainly as a **Frontend Developer**, building web applications using **React, JavaScript, HTML, and CSS**, and I also have experience with **backend development using Django**, API creation, and deployment.
-
-I’ve been involved in:
-
-* Developing and maintaining web applications
-* Participating in **code reviews and architectural decisions**
-* Working in a **real development workflow (team, versioning, deployment)**
-
-🎯 Currently focused on **Frontend Development**, aiming for a **Junior Developer position**.
+Frontend Developer focused on React and JavaScript, with backend experience in Django.
+Final-year Software Engineering student at UFAM.
 
 ---
 
-### 🛠️ Tech Stack
+### About
 
-**Frontend**
+I build web applications end-to-end — from UI to API — and have worked in a real development
+environment as part of a university-industry project with Motorola.
 
-* React
-* JavaScript (ES6+)
-* HTML & CSS
+My day-to-day involves writing React frontends, contributing to code reviews, working with
+version control in a team setting, and occasionally handling backend and deployment tasks.
 
-**Backend**
-
-* Django
-* REST APIs
-
-**Other**
-
-* PostgreSQL
-* Git & GitHub
-* Basic deployment (servers, environments)
+Currently preparing for a **Junior Developer position**, with focus on frontend architecture
+and clean, maintainable code.
 
 ---
 
-### 📂 Featured Projects
+### Tech Stack
 
-Here are some of my main projects:
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-* 🗳️ **Fullstack Voting System**
-  Web application with frontend + backend integration
-
-* 🎯 **Resource Allocation System (University Project)**
-  Fullstack system developed in a team environment
-
-* 🎲 **Bingo Game (React)**
-  Simple interactive frontend project
-
-* 🤖 **Machine Learning API (FastAPI)**
-  Experiment with data processing and ML integration
-
-👉 Check my repositories for more details!
+**Frontend** — React, JavaScript (ES6+), HTML, CSS  
+**Backend** — Django, REST APIs  
+**Other** — PostgreSQL, Git & GitHub, deployment basics
 
 ---
 
-### 📫 Contact
+### Featured Projects
 
-* 💼 LinkedIn: https://www.linkedin.com/in/marcioericlvalente
+| Project | Description |
+|---|---|
+| 🗳️ **Fullstack Voting System** | Web application with React frontend and integrated backend |
+| 🎯 **Resource Allocation System** | Team-built fullstack system developed in a university project context |
+| 🎲 **Bingo Game (React)** | Interactive frontend application built with React |
+| 🤖 **Machine Learning API** | FastAPI-based service with data processing and ML integration |
 
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericxy&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mericxy&layout=compact&theme=radical&cache_seconds=86400)
-
----
-
-### ⚡ Focus Right Now
-
-* Improving React and frontend architecture
-* Building better structured projects
-* Preparing for Junior Developer opportunities
+→ See all repositories for full details and code.
 
 ---
 
-⭐ Always learning, building, and improving.
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericyx&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mericyx&layout=compact&theme=radical&cache_seconds=86400)
+
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcioericlvalente)
