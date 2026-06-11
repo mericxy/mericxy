@@ -47,8 +47,8 @@ and clean, maintainable code.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericyx&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mericyx&layout=compact&theme=radical&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mericxy&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mericxy&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
