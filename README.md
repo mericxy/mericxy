@@ -1,58 +1,35 @@
-### Hi, I'm Márcio (Mericyx) 👋
+### Hi, I'm Márcio (mericyx)
 
-Frontend Developer focused on React and JavaScript, with backend experience in Django.
-Final-year Software Engineering student at UFAM.
+Fullstack Developer — React on the frontend, FastAPI + Nest on the backend.
 
----
-
-### About
-
-I build web applications end-to-end — from UI to API — and have worked in a real development
-environment as part of a university-industry project with Motorola.
-
-My day-to-day involves writing React frontends, contributing to code reviews, working with
-version control in a team setting, and occasionally handling backend and deployment tasks.
-
-Currently preparing for a **Junior Developer position**, with focus on frontend architecture
-and clean, maintainable code.
+Final-semester Software Engineering student at UFAM, graduating Jan 2027.
+Currently moving into DevOps: Cloudflare in production + self-hosted Linux server.
 
 ---
 
-### Tech Stack
+![Stack](https://skillicons.dev/icons?i=react,ts,py,fastapi,nestjs,postgres,cloudflare,linux,docker,git)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Frontend** — React, JavaScript (ES6+), HTML, CSS  
-**Backend** — Django, REST APIs  
-**Other** — PostgreSQL, Git & GitHub, deployment basics
+`React · TypeScript · Python · FastAPI · Nest · Postgres · Cloudflare · Linux · Docker`
 
 ---
 
-### Featured Projects
+### Now
 
-| Project | Description |
-|---|---|
-| 🗳️ **Fullstack Voting System** | Web application with React frontend and integrated backend |
-| 🎯 **Resource Allocation System** | Team-built fullstack system developed in a university project context |
-| 🎲 **Bingo Game (React)** | Interactive frontend application built with React |
-| 🤖 **Machine Learning API** | FastAPI-based service with data processing and ML integration |
+- Frontend-first, fullstack in practice
+- Real workloads on Cloudflare Workers + Pages
+- Self-hosted services via `cloudflared` on my own Linux server
 
-→ See all repositories for full details and code.
+### Featured
+
+- **[meric.dev.br/resume](https://meric.dev.br/resume/)** — automated resume pipeline powered by Cloudflare Workers
+- **[docparse.meric.dev.br](https://docparse.meric.dev.br)** — fullstack app with polished UI, self-hosted and exposed via Cloudflared
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=mericxy&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=mericxy&layout=compact&theme=radical)
+[![streak](https://streak-stats.demolab.com?user=mericxy&theme=transparent&hide_border=true)](https://github.com/mericxy)
 
 ---
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcioericlvalente)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcioericlvalente)
